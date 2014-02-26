@@ -1,0 +1,15 @@
+body{
+	margin:0;
+	padding:0;
+	background:#ffd9a3;
+}
+
+#sitebg{
+	position:absolute;
+	background-image:url(../img/site/bg1.png);
+	background-size:100%;
+	max-width:100%;
+	width:1170px;
+	height:400px;
+	background-repeat:no-repeat;
+}
